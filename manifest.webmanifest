@@ -1,0 +1,16 @@
+{
+  "name": "Synergy Map",
+  "short_name": "Synergy Map",
+  "description": "Transformez votre carnet d'adresses en opportunités d'affaires",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6f4fa",
+  "theme_color": "#f6f4fa",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
